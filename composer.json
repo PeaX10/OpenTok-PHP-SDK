@@ -28,10 +28,10 @@
         "issues": "https://github.com/opentok/Opentok-PHP-SDK/issues"
     },
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^7.2|^8.0|^8.1",
         "ext-xml": "*",
         "johnstevenson/json-works": "~1.1",
-        "firebase/php-jwt": "^5.0",
+        "firebase/php-jwt": "^6.0",
         "guzzlehttp/guzzle": "~6.0|~7.0",
       "ext-json": "*"
     },
